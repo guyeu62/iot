@@ -1,0 +1,17 @@
+# MQTT TLS Security
+/iot/broker/certs/
+/iot/broker/conf/config.xml
+/iot/broker/extensions/
+
+# Security files
+*.jks
+*.p12
+*.key
+*.pem
+
+# Environment variables
+.env
+.env.local
+
+# Java Maven
+target/
